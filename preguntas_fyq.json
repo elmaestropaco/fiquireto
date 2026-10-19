@@ -1,0 +1,1347 @@
+{
+  "temasConfig": [
+    {
+      "id": "Ciencia y Pseudociencia",
+      "icon": "🔮",
+      "desc": "Ciencia frente a mitos, astrología, cabañuelas y pensamiento crítico"
+    },
+    {
+      "id": "Grandes Científicos y Científicas",
+      "icon": "⚛️",
+      "desc": "Arquímedes, Hipatia, Newton, Lavoisier, Curie, Einstein y Bohr"
+    },
+    {
+      "id": "El Método Científico",
+      "icon": "🔬",
+      "desc": "Fases de la investigación, hipótesis, experimentos y variables"
+    },
+    {
+      "id": "El Trabajo en el Laboratorio",
+      "icon": "🧪",
+      "desc": "Instrumentos de medida, mezcla y calentamiento (probetas, Bunsen, pipetas)"
+    },
+    {
+      "id": "Normas de Seguridad y Pictogramas",
+      "icon": "⚠️",
+      "desc": "Reglas en el laboratorio, protección y pictogramas de peligro CLP/SGA"
+    },
+    {
+      "id": "El Sistema Internacional (SI)",
+      "icon": "📏",
+      "desc": "Unidades elementales (m, kg, s, K, A, mol, cd) y volumen (m³ y L)"
+    },
+    {
+      "id": "Múltiplos y Submúltiplos",
+      "icon": "🔢",
+      "desc": "Prefijos decimales (kilo a mili), escalas y conversiones numéricas"
+    },
+    {
+      "id": "Medidas Directas, Estimación y Error",
+      "icon": "🎯",
+      "desc": "Medidas directas e indirectas, aproximaciones por exceso/defecto y error"
+    },
+    {
+      "id": "Tablas, Gráficas y Comunicación",
+      "icon": "📊",
+      "desc": "Interpretación de tablas, gráficas cartesianas, fórmulas e informes científicos"
+    }
+  ],
+  "bancoPreguntas": [
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "¿Qué es la ciencia según la definición del libro de texto?",
+      "opciones": [
+        "Un conjunto de conocimientos obtenidos por medio de la observación, la experimentación y el razonamiento",
+        "Una colección de creencias tradicionales que no necesitan someterse a pruebas empíricas",
+        "Cualquier opinión defendida por una persona famosa o con autoridad política",
+        "Un compendio de fórmulas matemáticas inmutables que jamás pueden corregirse ni revisarse"
+      ],
+      "correcta": 0,
+      "explicacion": "La ciencia se define como el conjunto de conocimientos metódicamente organizados obtenidos mediante la observación del entorno, la experimentación rigurosa y el razonamiento lógico. De ellos se deducen leyes que explican el pasado y predicen el futuro."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "¿Cuál es la principal diferencia entre una afirmación científica y una pseudocientífica?",
+      "opciones": [
+        "La afirmación científica se puede comprobar de forma fiable y sigue el método científico; la pseudociencia no",
+        "La pseudociencia siempre utiliza laboratorios mucho más modernos y caros que la ciencia",
+        "La ciencia se basa exclusivamente en la intuición y la pseudociencia en fórmulas matemáticas",
+        "No hay diferencias reales, ambas son formas igualmente válidas de estudiar la naturaleza"
+      ],
+      "correcta": 0,
+      "explicacion": "Se llama pseudociencia (o falsa ciencia) a aquellas prácticas presentadas falsamente como ciencia pero que no siguen el método científico ni cuyas afirmaciones se pueden verificar o reproducir de manera fiable y objetiva."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "En el taller del libro, se introduce un huevo fresco en agua del grifo y luego en agua con abundante sal disuelta. ¿Qué sucede y por qué?",
+      "opciones": [
+        "El huevo se hunde en agua dulce y flota en agua salada porque la sal aumenta la densidad del líquido",
+        "El huevo flota en agua dulce y se hunde en agua salada porque la sal disminuye el peso del agua",
+        "El huevo se disuelve instantáneamente en el agua salada por una reacción química violenta",
+        "El huevo flota exactamente igual en ambos vasos porque la sal no altera ninguna propiedad física"
+      ],
+      "correcta": 0,
+      "explicacion": "Al disolver sal en el agua, aumenta la masa contenida en el mismo volumen, por lo que aumenta la densidad del líquido. Cuando la densidad del agua salada supera a la del huevo, el empuje hacia arriba es mayor que el peso del huevo y este flota (principio de flotabilidad)."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "¿Por qué es imprescindible repetir un experimento varias veces antes de que la comunidad científica acepte una conclusión?",
+      "opciones": [
+        "Para verificar que los resultados no fueron fruto de la casualidad o de un fallo experimental puntual",
+        "Para gastar todo el presupuesto asignado al proyecto antes de que termine el año",
+        "Para que los científicos tengan suficiente material para redactar libros más largos",
+        "Porque la ley obliga a que todos los científicos del mundo hagan al menos diez copias de cada ensayo"
+      ],
+      "correcta": 0,
+      "explicacion": "La repetibilidad y la reproducibilidad son pilares del conocimiento científico. Repetir los ensayos garantiza que el fenómeno observado obedece a leyes físicas o químicas constantes y no a anomalías fortuitas o errores humanos."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "Una web propone meter 10 lentejas en un saquito rojo y recitar frases para sacar buenas notas en el examen. ¿Por qué es un procedimiento pseudocientífico?",
+      "opciones": [
+        "Porque no existe ningún mecanismo causal comprobable ni base científica entre las lentejas y el rendimiento académico",
+        "Porque las lentejas deberían ser pardinas en vez de castellanas para que el ritual funcione",
+        "Porque los saquitos rojos absorben la luz ultravioleta impidiendo la concentración mental",
+        "Porque el procedimiento solo funciona en asignaturas de letras y no en ciencias"
+      ],
+      "correcta": 0,
+      "explicacion": "Es una superstición y pseudociencia: carece de fundamento físico, biológico o lógico, no establece relación causal demostrable y no puede contrastarse mediante experimentos rigurosos. Para mejorar las notas, el método contrastado es el estudio y la comprensión."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "En un periódico leemos: 'Tauro: hoy tendrás gastos imprevistos pero podrás afrontarlos'. ¿Por qué el horóscopo no es una afirmación científica?",
+      "opciones": [
+        "Porque utiliza frases vagas y generales que no se pueden comprobar siguiendo los pasos del método científico",
+        "Porque los astrólogos se olvidaron de incluir la influencia gravitatoria del planeta Plutón",
+        "Porque las predicciones de los periódicos solo son válidas si las firma un doctor en física cuántica",
+        "Porque la constelación de Tauro no emite ningún tipo de radiación electromagnética hacia la Tierra"
+      ],
+      "correcta": 0,
+      "explicacion": "Los horóscopos emplean afirmaciones ambiguas aplicables a casi cualquier persona (efecto Forer/Barnum). No definen variables medibles, no aportan pruebas empíricas y no se someten a control experimental ni al método científico."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "¿Cuál es la diferencia fundamental entre la astrología y la astronomía?",
+      "opciones": [
+        "La astronomía es una ciencia real que estudia los astros mediante física y matemáticas; la astrología es una pseudociencia",
+        "La astrología estudia las galaxias lejanas y la astronomía se dedica únicamente a la Luna",
+        "Ambas son ciencias exactas reconocidas por las universidades de todo el mundo",
+        "La astrología utiliza telescopios espaciales y la astronomía cartas astrales dibujadas a mano"
+      ],
+      "correcta": 0,
+      "explicacion": "La astronomía es la ciencia natural que estudia los cuerpos celestes, sus posiciones, movimientos y composición física. La astrología es una creencia pseudocientífica que pretende predecir el destino o personalidad humana a partir de los astros sin base demostrable."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "El método tradicional de las 'cabañuelas' predice el tiempo de todo el año observando los primeros 12 días de enero. ¿Se considera científico?",
+      "opciones": [
+        "No, es una pseudociencia popular porque carece de base física y meteorológica contrastada",
+        "Sí, porque los meteorólogos de la AEMET lo utilizan para calibrar sus superordenadores",
+        "Sí, porque la atmósfera repite matemáticamente su comportamiento cada 12 días exactos",
+        "Sí, siempre que las observaciones las realice una persona mayor con mucha experiencia en el campo"
+      ],
+      "correcta": 0,
+      "explicacion": "Las cabañuelas son una tradición sin validez científica. La meteorología moderna demuestra que la atmósfera es un sistema dinámico complejo y caótico regulado por presiones, frentes y temperaturas que no pueden extrapolarse de 12 días aislados."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "¿Qué propone la homeopatía y por qué la ciencia médica la cataloga como pseudociencia?",
+      "opciones": [
+        "Diluye sustancias tantas veces que no queda ni una sola molécula activa, no demostrando mayor efecto que un placebo",
+        "Utiliza dosis masivas de antibióticos químicos sintetizados en laboratorio sin control médico",
+        "Consiste en aplicar campos magnéticos intensos para destruir bacterias patógenas en la sangre",
+        "Es una rama de la química analítica que mide impurezas moleculares con gran precisión"
+      ],
+      "correcta": 0,
+      "explicacion": "Los preparados homeopáticos se basan en diluciones sucesivas tan extremas (superiores al número de Avogadro) que estadísticamente no contienen ninguna molécula del principio activo original. Los ensayos clínicos rigurosos demuestran que su eficacia no supera la del efecto placebo."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "La 'criptozoología' intenta buscar criaturas mitológicas como el monstruo del lago Ness o el Yeti. ¿Por qué no es una ciencia zoológica?",
+      "opciones": [
+        "Porque se apoya en leyendas populares, fotos borrosas y carece de restos biológicos contrastados por la comunidad científica",
+        "Porque la biología prohíbe taxativamente descubrir nuevas especies de animales en el planeta",
+        "Porque las criaturas acuáticas solo pueden ser estudiadas por la oceanografía militar",
+        "Porque ningún animal que mida más de dos metros de altura puede existir en la Tierra"
+      ],
+      "correcta": 0,
+      "explicacion": "La criptozoología carece de metodología científica: parte de mitos o relatos y no presenta especímenes biológicos, restos óseos, ADN concluyente ni pruebas reproducibles avaladas por la comunidad zoológica."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "La agricultura biodinámica propone 'incinerar piel de ratón de campo cuando Venus esté en Escorpio' para controlar plagas. ¿Sigue el método científico?",
+      "opciones": [
+        "No, porque vincula la eficacia agrícola con la posición astrológica de los planetas sin ninguna base biológica ni química",
+        "Sí, porque las cenizas de cualquier animal emiten frecuencias electromagnéticas que asustan a los roedores",
+        "Sí, siempre que el planeta Venus se encuentre a menos de 100 millones de kilómetros de la Tierra",
+        "Sí, porque la constelación de Escorpio es famosa por su efecto repelente sobre insectos y roedores"
+      ],
+      "correcta": 0,
+      "explicacion": "Es una práctica pseudocientífica y esotérica. La posición de planetas respecto a constelaciones no ejerce fuerzas bioquímicas sobre plagas de cultivo. Las medidas científicas de control de plagas se basan en entomología, ecología y química contrastadas."
+    },
+    {
+      "tema": "Ciencia y Pseudociencia",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre la ciencia es FALSA?",
+      "opciones": [
+        "La superstición y los rituales mágicos ayudan a mejorar y acelerar los resultados científicos",
+        "El conocimiento científico se obtiene a partir de la observación sistemática y la experimentación",
+        "A través de las leyes científicas se puede explicar el pasado y predecir comportamientos futuros",
+        "Las teorías científicas se actualizan y corrigen cuando nuevas pruebas empíricas las contradicen"
+      ],
+      "correcta": 0,
+      "explicacion": "La superstición es contraria al conocimiento científico. La ciencia avanza mediante datos objetivos, pruebas reproducibles, lógica y experimentación, rechazando explicaciones mágicas o no contrastables."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿A qué genial científico griego de la Antigüedad se le atribuye la frase 'Dadme un punto de apoyo y moveré el mundo' por sus estudios en palancas e hidrostática?",
+      "opciones": [
+        "Arquímedes",
+        "Aristóteles",
+        "Pitágoras",
+        "Tales de Mileto"
+      ],
+      "correcta": 0,
+      "explicacion": "Arquímedes (c. 287-212 a.C.) destacó en mecánica, hidrostática (principio de flotabilidad) y óptica, enunciando la ley de la palanca que le inspiró su célebre frase sobre el punto de apoyo."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué astrónomo y filósofo egipcio defendió el modelo geocéntrico, afirmando erróneamente que la Tierra era el centro del sistema solar?",
+      "opciones": [
+        "Claudio Ptolomeo",
+        "Nicolás Copérnico",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "correcta": 0,
+      "explicacion": "Claudio Ptolomeo (c. 100-170) desarrolló el sistema geocéntrico que situaba a la Tierra en el centro del universo, justificando el movimiento de los planetas mediante complejos giros geométricos llamados epiciclos."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué brillante matemática y astrónoma alejandrina mejoró el astrolabio e inventó un densímetro (instrumento para medir la densidad de líquidos)?",
+      "opciones": [
+        "Hipatia de Alejandría",
+        "Marie Curie",
+        "Ada Lovelace",
+        "Rosalind Franklin"
+      ],
+      "correcta": 0,
+      "explicacion": "Hipatia (c. 355-415) destacó en matemáticas, astronomía y filosofía en Alejandría. Diseñó mejoras para el astrolabio y construyó un hidrómetro/densímetro cilíndrico para medir el peso específico de los líquidos."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué astrónomo polaco propuso en el siglo XVI el modelo heliocéntrico, situando al Sol en el centro y los planetas girando a su alrededor?",
+      "opciones": [
+        "Nicolás Copérnico",
+        "Claudio Ptolomeo",
+        "Isaac Newton",
+        "John Dalton"
+      ],
+      "correcta": 0,
+      "explicacion": "Nicolás Copérnico (1473-1543) revolucionó la astronomía al publicar su teoría heliocéntrica, demostrando matemáticamente que la Tierra y los demás planetas giran en torno al Sol."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué científico italiano sentó las bases del método experimental moderno, mejoró el telescopio y descubrió las cuatro lunas principales de Júpiter?",
+      "opciones": [
+        "Galileo Galilei",
+        "Arquímedes",
+        "Albert Einstein",
+        "James Clerk Maxwell"
+      ],
+      "correcta": 0,
+      "explicacion": "Galileo Galilei (1564-1642) basaba sus conclusiones en evidencias experimentales directas. Perfeccionó el telescopio astronómico, descubrió las lunas galileanas de Júpiter y estudió la caída libre de los cuerpos."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué físico inglés enunció la ley de gravitación universal, formuló las tres leyes del movimiento y descubrió la descomposición de la luz blanca en colores?",
+      "opciones": [
+        "Isaac Newton",
+        "John Dalton",
+        "Niels Bohr",
+        "Antoine Lavoisier"
+      ],
+      "correcta": 0,
+      "explicacion": "Isaac Newton (1642-1727) es uno de los mayores científicos de la historia. Descubrió la ley de la gravedad, las leyes fundamentales de la dinámica y descompuso la luz solar mediante un prisma de vidrio."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué científico francés, junto a su colaboradora y esposa Marie-Anne Pierrette Paulze, enunció la fundamental ley de conservación de la masa?",
+      "opciones": [
+        "Antoine Lavoisier",
+        "John Dalton",
+        "James Clerk Maxwell",
+        "Claudio Ptolomeo"
+      ],
+      "correcta": 0,
+      "explicacion": "Antoine Lavoisier (1743-1794) y Marie-Anne Pierrette Paulze montaron un laboratorio conjunto pionero en mediciones cuantitativas precisas y demostraron que en una reacción química la masa total no se crea ni se destruye, solo se transforma."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Cuál fue el papel decisivo de Marie-Anne Pierrette Paulze en el laboratorio de química junto a Lavoisier?",
+      "opciones": [
+        "Dibujaba con precisión los aparatos de laboratorio, traducía textos científicos del inglés y registraba datos experimentales",
+        "Se limitaba únicamente a limpiar los recipientes de vidrio tras los experimentos",
+        "Inventó el microscopio electrónico para observar átomos individuales",
+        "Prohibió a los científicos extranjeros visitar el laboratorio de París"
+      ],
+      "correcta": 0,
+      "explicacion": "Marie-Anne Pierrette Paulze fue una química y dibujante crucial: tradujo obras clave de químicos británicos (como Priestley y Cavendish), ilustró con rigor los tratados científicos y colaboró directamente en las investigaciones del laboratorio."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué científico británico propuso en 1808 la primera teoría atómica moderna basada en evidencias experimentales de las leyes ponderales de la química?",
+      "opciones": [
+        "John Dalton",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei"
+      ],
+      "correcta": 0,
+      "explicacion": "John Dalton (1766-1844) postuló que toda la materia está formada por diminutas partículas indivisibles llamadas átomos, y que los átomos de un mismo elemento químico son idénticos entre sí en masa y propiedades."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué físico escocés demostró matemáticamente en el siglo XIX que la electricidad, el magnetismo y la luz son manifestaciones de un mismo fenómeno electromagnético?",
+      "opciones": [
+        "James Clerk Maxwell",
+        "Arquímedes",
+        "Niels Bohr",
+        "Nicolás Copérnico"
+      ],
+      "correcta": 0,
+      "explicacion": "James Clerk Maxwell (1831-1879) formuló las famosas ecuaciones del electromagnetismo, unificando los fenómenos eléctricos y magnéticos y prediciendo que la luz es una onda electromagnética."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué insigne científica investigó la radiactividad, descubrió los elementos químicos polonio y radio, y ganó dos Premios Nobel (uno en Física y otro en Química)?",
+      "opciones": [
+        "Marie Curie",
+        "Hipatia de Alejandría",
+        "Marie-Anne Pierrette Paulze",
+        "Lise Meitner"
+      ],
+      "correcta": 0,
+      "explicacion": "Marie Curie (1867-1934) fue pionera en el estudio de las radiaciones nucleares. Es la única persona en la historia galardonada con dos Premios Nobel en dos ciencias experimentales distintas: Física (1903) y Química (1911)."
+    },
+    {
+      "tema": "Grandes Científicos y Científicas",
+      "pregunta": "¿Qué científico revolucionó la física con su teoría de la relatividad enunciando la equivalencia entre masa y energía (E = mc²), y qué colega danés propuso el modelo atómico con niveles de energía cuantizados?",
+      "opciones": [
+        "Albert Einstein formuló la relatividad y Niels Bohr propuso el modelo atómico cuantizado",
+        "Isaac Newton formuló la relatividad y John Dalton propuso el modelo atómico cuantizado",
+        "Galileo Galilei formuló la relatividad y Claudio Ptolomeo propuso el modelo atómico",
+        "Arquímedes formuló la relatividad y James Clerk Maxwell propuso el modelo atómico"
+      ],
+      "correcta": 0,
+      "explicacion": "Albert Einstein (1879-1955) formuló la teoría de la relatividad y la ecuación E = mc². Niels Bohr (1885-1962) aplicó la teoría cuántica al átomo de hidrógeno demostrando que los electrones orbitan en niveles discretos de energía."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Cuál es el orden cronológico exacto de las fases del método científico según el esquema del libro?",
+      "opciones": [
+        "1. Observa y formula preguntas → 2. Recoge información → 3. Emite hipótesis → 4. Experimenta → 5. Analiza y concluye → 6. Comunica",
+        "1. Experimenta → 2. Emite hipótesis → 3. Comunica → 4. Recoge información → 5. Observa → 6. Analiza",
+        "1. Comunica → 2. Observa → 3. Analiza → 4. Experimenta → 5. Emite hipótesis → 6. Recoge información",
+        "1. Emite hipótesis → 2. Comunica → 3. Observa → 4. Recoge información → 5. Experimenta → 6. Analiza"
+      ],
+      "correcta": 0,
+      "explicacion": "El método científico sigue una secuencia ordenada y lógica: primero observar la realidad y formular preguntas; documentarse buscando información previa; formular una hipótesis contrastable; experimentar controlando variables; analizar los resultados para extraer conclusiones; y finalmente comunicar los hallazgos."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Qué es una hipótesis en el marco de una investigación científica?",
+      "opciones": [
+        "Una explicación o suposición provisional que intenta responder a la pregunta planteada y que debe poder comprobarse experimentalmente",
+        "Una verdad absoluta e indiscutible dictada por el profesor en clase",
+        "El resultado definitivo e inmutable que se publica al final de una investigación",
+        "Una opinión subjetiva sobre si un experimento resulta divertido o aburrido"
+      ],
+      "correcta": 0,
+      "explicacion": "Una hipótesis científica es una respuesta tentativa fundamentada. Debe cumplir la condición esencial de ser falsable o contrastable, es decir, que mediante un experimento diseñado se pueda comprobar si es acertada o falsa."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "En el taller del vaso invertido, llenamos un vaso de agua hasta el borde, ponemos un papel plano encima y lo giramos boca abajo. ¿Por qué el agua no cae al soltar el papel?",
+      "opciones": [
+        "Porque la presión atmosférica del aire exterior empuja el papel hacia arriba con más fuerza que el peso de la columna de agua",
+        "Porque el agua se congela instantáneamente al entrar en contacto con la celulosa del papel",
+        "Porque el papel absorbe mágicamente toda la gravedad terrestre dentro del vaso",
+        "Porque el oxígeno del agua se convierte en helio y hace que el vaso flote hacia arriba"
+      ],
+      "correcta": 0,
+      "explicacion": "El aire que nos rodea ejerce presión atmosférica en todas las direcciones. La fuerza ejercida por el aire hacia arriba sobre la superficie del papel es muy superior al peso del agua dentro del vaso, manteniendo el papel sellado contra el borde."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Qué debe hacer un equipo de científicos si tras realizar los experimentos descubren que los resultados contradicen completamente su hipótesis inicial?",
+      "opciones": [
+        "Aceptar que la hipótesis era falsa, formular una nueva hipótesis mejorada y diseñar nuevos experimentos",
+        "Falsificar los datos numéricos obtenidos para que coincidan a la fuerza con la hipótesis inicial",
+        "Ocultar los resultados y abandonar para siempre el campo de la ciencia",
+        "Afirmar que las leyes del universo se equivocaron durante ese día concreto"
+      ],
+      "correcta": 0,
+      "explicacion": "En ciencia, un resultado negativo es muy valioso: descarta un camino incorrecto. Si la experimentación demuestra que la hipótesis era errónea, los científicos descartan o corrigen la hipótesis y plantean nuevas explicaciones para seguir investigando."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "Al diseñar un experimento para ver cómo afecta la temperatura a la velocidad a la que se disuelve el azúcar en agua, ¿qué debemos hacer con las variables?",
+      "opciones": [
+        "Cambiar solo la temperatura del agua manteniendo igual la cantidad de agua, de azúcar y la velocidad de agitación",
+        "Cambiar al mismo tiempo la cantidad de azúcar, el tipo de vaso, la temperatura y la salinidad",
+        "Calentar el agua a 100 ºC y usar café con leche en vez de agua para ahorrar tiempo",
+        "No medir ninguna variable porque el azúcar se disuelve siempre a velocidad infinita"
+      ],
+      "correcta": 0,
+      "explicacion": "En el método científico se aplica el 'control de variables': solo se modifica una variable independiente a la vez (en este caso la temperatura) mientras todas las demás (volumen de líquido, masa de soluto, agitación) se mantienen estrictamente constantes para saber con certeza la causa del efecto."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Por qué es fundamental la fase de 'recogida de información' antes de ponerse a experimentar en el laboratorio?",
+      "opciones": [
+        "Para conocer qué descubrieron otros científicos antes, evitar repetir errores y basarse en teorías sólidas",
+        "Para copiar las respuestas de otros laboratorios y no tener que hacer ningún trabajo práctico",
+        "Porque está prohibido comprar material de laboratorio sin antes imprimir diez artículos en papel",
+        "Para memorizar las fechas de nacimiento de todos los químicos del siglo XIX"
+      ],
+      "correcta": 0,
+      "explicacion": "Investigar los antecedentes teóricos y los experimentos previos en libros o publicaciones científicas permite plantear hipótesis fundamentadas, utilizar técnicas experimentales seguras y aportar conocimiento nuevo sin partir de cero."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Cuál de las siguientes es una hipótesis científica correctamente formulada?",
+      "opciones": [
+        "'Si aumentamos la temperatura de un gas a volumen constante, su presión aumentará proporcionalmente'",
+        "'El color azul de las soluciones químicas es más bonito y elegante que el color amarillo'",
+        "'Los fantasmas invisiblemente traviesos son los culpables de que se rompan los tubos de vidrio'",
+        "'Las reacciones químicas ocurren únicamente cuando el científico tiene buen humor'"
+      ],
+      "correcta": 0,
+      "explicacion": "Una hipótesis científica debe relacionar magnitudes físicas o químicas medibles (temperatura, volumen, presión) y ser susceptible de contrastación experimental objetiva, a diferencia de juicios estéticos o explicaciones sobrenaturales."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Cuál es el objetivo de la última fase del método científico ('Comunica los resultados')?",
+      "opciones": [
+        "Compartir el trabajo en informes, congresos o artículos para que otros científicos lo revisen, lo comprueben y la sociedad se beneficie",
+        "Guardar celosamente la fórmula en una caja fuerte para que nadie pueda comprobar si es verdad",
+        "Cobrar inmediatamente una entrada al público general para revelar el secreto",
+        "Demostrar que quien hizo el experimento es más listo que todos los demás profesores"
+      ],
+      "correcta": 0,
+      "explicacion": "La comunicación es vital para el progreso científico: permite la revisión por pares (peer review), garantiza que cualquier laboratorio del mundo pueda replicar el ensayo y transforma los descubrimientos en avances tecnológicos y bienestar para la sociedad."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Por qué en el experimento del vaso con agua boca abajo se recomienda usar un papel o cartulina lisa en lugar de una hoja arrugada?",
+      "opciones": [
+        "Porque la superficie lisa sella herméticamente contra el borde del vaso impidiendo que entre aire que iguale la presión",
+        "Porque el papel arrugado tiene mayor masa y cae más rápido por la ley de Newton",
+        "Porque el papel arrugado reacciona químicamente con el agua creando burbujas de hidrógeno",
+        "Porque las arrugas cambian la polaridad eléctrica de los átomos del vaso"
+      ],
+      "correcta": 0,
+      "explicacion": "La cartulina o papel plano sella el borde del vaso gracias a la tensión superficial del agua. Si estuviera arrugado, el aire entraría por los huecos, la presión interna se igualaría a la atmosférica y el agua caería por su propio peso."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "Queremos investigar por qué el cielo se ve azul durante el día. ¿Cuál es el primer paso según el método científico?",
+      "opciones": [
+        "Observar el fenómeno detenidamente y formular preguntas precisas sobre la dispersión de la luz solar en la atmósfera",
+        "Publicar directamente una noticia en televisión afirmando que el cielo está pintado con spray",
+        "Mezclar reactivos químicos al azar en un tubo de ensayo hasta que se ponga azul",
+        "Afirmar que no hace falta investigar porque el color azul es una ilusión óptica inexplicable"
+      ],
+      "correcta": 0,
+      "explicacion": "El punto de partida del método científico es la observación atenta de la naturaleza y el planteamiento de preguntas rigurosas sobre las causas del fenómeno (en este caso, cómo interactúa la luz solar con las moléculas de la atmósfera terrestre)."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Qué significa que un experimento científico debe ser 'reproducible'?",
+      "opciones": [
+        "Que cualquier científico en otro lugar del mundo, siguiendo las mismas condiciones e instrucciones, obtiene los mismos resultados",
+        "Que el experimento debe grabarse obligatoriamente en vídeo y subirse a una red social",
+        "Que solo puede realizarlo con éxito la persona que tuvo la idea original",
+        "Que el experimento produce copias idénticas de bacterias u organismos vivos"
+      ],
+      "correcta": 0,
+      "explicacion": "La reproducibilidad asegura que los resultados no dependan de la subjetividad, la suerte o la habilidad exclusiva de una sola persona. Si un experimento no puede ser reproducido de forma independiente por otros investigadores, no se considera válido en ciencia."
+    },
+    {
+      "tema": "El Método Científico",
+      "pregunta": "¿Qué papel cumplen las matemáticas en el método científico en Física y Química?",
+      "opciones": [
+        "Son el lenguaje que permite cuantificar las variables, analizar estadísticamente los datos y formular leyes exactas",
+        "Solo sirven para poner notas difíciles en los boletines escolares",
+        "No tienen ninguna utilidad porque la física solo se estudia mediante dibujos y maquetas",
+        "Se utilizan exclusivamente para contar el número de tubos de ensayo disponibles en el armario"
+      ],
+      "correcta": 0,
+      "explicacion": "Galileo afirmó que 'la naturaleza está escrita en lenguaje matemático'. En física y química, las matemáticas son indispensables para medir, relacionar magnitudes, trazar gráficas y deducir fórmulas cuantitativas."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Qué instrumento de laboratorio se utiliza para medir la masa de sustancias con exactitud?",
+      "opciones": [
+        "Báscula o balanza de laboratorio",
+        "Probeta graduada",
+        "Termómetro de mercurio o alcohol",
+        "Matraz Erlenmeyer"
+      ],
+      "correcta": 0,
+      "explicacion": "La masa de los cuerpos y sustancias químicas sólidas o líquidas se mide en el laboratorio mediante una báscula o balanza digital/de precisión."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Para qué sirve una 'pipeta' en el laboratorio químico?",
+      "opciones": [
+        "Para medir y trasvasar con gran precisión volúmenes muy pequeños de líquidos",
+        "Para sostener verticalmente una docena de tubos de ensayo al mismo tiempo",
+        "Para triturar rocas y minerales duros hasta convertirlos en polvo fino",
+        "Para calentar grandes volúmenes de disolución con una llama potente"
+      ],
+      "correcta": 0,
+      "explicacion": "La pipeta es un instrumento volumétrico estrecho y calibrado diseñado específicamente para tomar y transferir volúmenes pequeños y precisos de líquidos."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Cómo podemos utilizar una probeta con agua para medir el volumen de un cuerpo sólido irregular (como una piedra o una llave)?",
+      "opciones": [
+        "Anotamos el volumen inicial de agua, sumergimos el sólido y restamos el volumen final menos el volumen inicial",
+        "Trituramos la piedra hasta que quepa por el borde del termómetro",
+        "Multiplicamos la masa de la probeta vacía por la altura en centímetros del sólido",
+        "No es posible medir sólidos con líquidos porque el agua disuelve instantáneamente cualquier piedra"
+      ],
+      "correcta": 0,
+      "explicacion": "Es el método de inmersión por desplazamiento de volumen (basado en el principio de Arquímedes): al sumergir el sólido en un volumen conocido de agua, el nivel del líquido sube exactamente una cantidad igual al volumen del objeto (V_sólido = V_final - V_inicial)."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Cuál es la principal ventaja de la forma cónica con cuello estrecho del 'matraz Erlenmeyer' frente a un vaso de precipitado?",
+      "opciones": [
+        "Permite agitar líquidos enérgicamente o calentarlos minimizando el riesgo de salpicaduras o pérdidas por evaporación",
+        "Es mucho más fácil de romper con la mano para limpiar su interior",
+        "Su cristal cónico amplifica la temperatura del líquido sin necesidad de fuego",
+        "Solo puede llenarse con gases nobles y nunca con agua líquida"
+      ],
+      "correcta": 0,
+      "explicacion": "El matraz Erlenmeyer, gracias a su base ancha y cuello estrecho cónico, es ideal para realizar mezclas por agitación manual o calentar reactivos sin que se produzcan derrames ni salpicaduras peligrosas."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Para qué se utiliza el 'mortero con mano' en las prácticas de física y química?",
+      "opciones": [
+        "Para triturar, moler o pulverizar sustancias sólidas facilitando su posterior disolución o reacción",
+        "Para medir con exactitud el tiempo en segundos que dura una reacción",
+        "Para trasvasar líquidos sin que caiga ni una sola gota fuera del matraz",
+        "Para enfriar los tubos de ensayo recién sacados de la llama del mechero"
+      ],
+      "correcta": 0,
+      "explicacion": "El mortero (habitualmente de porcelana o ágata) y su mano o pistilo se usan para machacar y pulverizar sólidos. Reducir el tamaño de las partículas aumenta la superficie de contacto, acelerando la velocidad de disolución y de reacción."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Qué instrumento de laboratorio sirve como fuente de calor mediante la combustión controlada de gas (como gas natural o butano)?",
+      "opciones": [
+        "Mechero Bunsen",
+        "Soporte universal",
+        "Gradilla de madera o plástico",
+        "Escobilla de cerdas"
+      ],
+      "correcta": 0,
+      "explicacion": "El mechero Bunsen es el dispositivo clásico de calefacción en el laboratorio; dispone de una entrada de gas y una virola giratoria para regular la entrada de aire y obtener una llama de combustión completa (azul, muy caliente y sin hollín)."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Para qué sirve una 'gradilla' en el laboratorio escolar?",
+      "opciones": [
+        "Para colocar y mantener en posición vertical y ordenada los tubos de ensayo",
+        "Para filtrar mezclas heterogéneas separando sólidos de líquidos",
+        "Para medir la masa exacta de reactivos en polvo",
+        "Para raspar las manchas difíciles de los vasos de precipitado"
+      ],
+      "correcta": 0,
+      "explicacion": "Como los tubos de ensayo tienen fondo redondeado y no pueden sostenerse por sí mismos sobre la mesa, la gradilla es el soporte indispensable para mantenerlos de pie de forma segura y clasificada."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Qué instrumentos de la lista necesitarías obligatoriamente para montar una práctica donde se mide la temperatura a la que hierve el agua salada?",
+      "opciones": [
+        "Vaso de precipitado o matraz, mechero Bunsen (o placa), soporte universal con pinzas y termómetro",
+        "Mortero con mano, gradilla, escobilla y cronómetro",
+        "Tres pipetas Pasteur y una báscula digital desconectada",
+        "Un embudo de decantación y dos imanes de herradura"
+      ],
+      "correcta": 0,
+      "explicacion": "Para medir el punto de ebullición se necesita un recipiente resistente al calor (vaso de precipitado o matraz), una fuente térmica (mechero Bunsen o placa calefactora), un sistema de sujeción seguro (soporte universal) y el termómetro para registrar los grados centígrados."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Cuál es la función del 'embudo' y de la 'escobilla' en el laboratorio?",
+      "opciones": [
+        "El embudo sirve para trasvasar líquidos sin derramar y para filtraciones; la escobilla sirve para limpiar el interior de tubos y matraces",
+        "El embudo mide la temperatura del agua y la escobilla sirve para mezclar ácidos concentrados",
+        "El embudo almacena gases a presión y la escobilla mide el tiempo transcurrido",
+        "Ambos instrumentos se utilizan exclusivamente para pesar metales pesados en la balanza"
+      ],
+      "correcta": 0,
+      "explicacion": "El embudo permite trasvasar líquidos a recipientes de boca estrecha y retener sólidos cuando se coloca papel de filtro. La escobilla de cerdas permite frotar y limpiar a fondo el interior de los recipientes tubulares de vidrio."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Para qué se utiliza el 'soporte universal' con nueces y pinzas metálicas?",
+      "opciones": [
+        "Para sujetar firmemente a diferentes alturas aparatos como matraces, refrigerantes o termómetros en montajes experimentales",
+        "Para conectar el laboratorio a la red eléctrica de alta tensión",
+        "Para afilar los instrumentos cortantes de disección",
+        "Para esterilizar el aire ambiente de la sala mediante luz ultravioleta"
+      ],
+      "correcta": 0,
+      "explicacion": "El soporte universal consta de una base pesada y una varilla vertical metálica. Con la ayuda de pinzas y nueces permite armar montajes experimentales estables (destilaciones, calentamientos, filtraciones) a la altura requerida."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "¿Qué es y para qué sirve una 'varilla agitadora' (o agitador de vidrio)?",
+      "opciones": [
+        "Una varilla de vidrio macizo que sirve para remover mezclas facilitando la disolución de solutos o guiar el vertido de líquidos",
+        "Una varilla de plástico que se usa como termómetro de emergencia",
+        "Un tubo hueco que absorbe líquidos por capilaridad para medir masas",
+        "Una herramienta para golpear los tubos de ensayo hasta romperlos"
+      ],
+      "correcta": 0,
+      "explicacion": "El agitador es una varilla cilíndrica de vidrio químicamente inerte que permite remover disoluciones sin que reaccione con los productos químicos y ayuda a verter líquidos deslizándolos por ella para evitar salpicaduras."
+    },
+    {
+      "tema": "El Trabajo en el Laboratorio",
+      "pregunta": "Entre una probeta graduada de 250 mL y una pipeta aforada de 10 mL, ¿cuál proporciona mayor precisión si queremos medir exactamente 8,5 mL de un ácido?",
+      "opciones": [
+        "La pipeta graduada, porque su diámetro estrecho reduce el margen de error de la lectura del menisco",
+        "La probeta de 250 mL, porque cuanto más grande sea el recipiente más exacto es el volumen",
+        "Ambos dan exactamente la misma precisión atómica sin ningún error posible",
+        "Ninguno, en el laboratorio los volúmenes se calculan contando el número de gotas a ojo"
+      ],
+      "correcta": 0,
+      "explicacion": "Los instrumentos de menor diámetro y escala más fina (como pipetas) presentan un error de menisco mucho menor que probetas grandes, haciéndolos ideales para medir volúmenes pequeños con alta precisión analítica."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Cuál es la vestimenta y equipo de protección individual (EPI) obligatorio para trabajar con seguridad en el laboratorio de química?",
+      "opciones": [
+        "Bata de laboratorio abrochada, pelo largo recogido, pantalones largos, calzado cerrado y gafas de protección",
+        "Bañador, chanclas de playa, gafas de sol y reloj de pulsera metálico",
+        "Pantalones cortos, sandalias abiertas, pelo suelto y ropa holgada con mangas colgantes",
+        "No se necesita ninguna ropa especial; se puede trabajar exactamente igual que en el recreo"
+      ],
+      "correcta": 0,
+      "explicacion": "La bata protege el cuerpo y la ropa frente a derrames; el calzado cerrado y pantalones largos evitan lesiones por caída de reactivos o cristales; el pelo recogido evita que prenda con la llama del mechero; y las gafas protegen los ojos frente a proyecciones químicas."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Por qué está estrictamente prohibido comer, beber o masticar chicle en el laboratorio de ciencias?",
+      "opciones": [
+        "Porque los alimentos o bebidas pueden contaminarse accidentalmente con vapores o restos tóxicos y ser ingeridos",
+        "Porque el olor a comida descalibra los sensores térmicos de los mecheros Bunsen",
+        "Porque la comida atrae campos magnéticos que desvían las balanzas digitales",
+        "Porque está reservado exclusivamente para los momentos en que se realizan experimentos culinarios"
+      ],
+      "correcta": 0,
+      "explicacion": "En el laboratorio flotan aerosoles, vapores y puede haber residuos químicos invisibles en mesas y manos. Ingerir alimentos o bebidas supone un grave riesgo de intoxicación por vía digestiva."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "Si estás calentando un líquido en un tubo de ensayo sobre la llama del mechero Bunsen, ¿hacia dónde debe apuntar la boca del tubo?",
+      "opciones": [
+        "Hacia una zona despejada donde no haya ninguna persona, nunca hacia ti ni hacia tus compañeros",
+        "Directamente hacia tu cara para observar en primer plano si se forman burbujas de ebullición",
+        "Hacia la cara del compañero de al lado para que compruebe la temperatura",
+        "Hacia el techo con el tubo totalmente tapado con un tapón hermético a presión"
+      ],
+      "correcta": 0,
+      "explicacion": "Al calentar líquidos en tubos de ensayo pueden producirse sobrecalentamientos súbitos y proyecciones violentas de líquido hirviendo. Apuntar hacia una zona vacía evita graves quemaduras a las personas presentes."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué indica el pictograma de seguridad química que muestra una llama viva?",
+      "opciones": [
+        "Sustancia inflamable: arde con facilidad si se expone a fuentes de calor, chispas o llamas",
+        "Sustancia que produce frío extremo si entra en contacto con el aire",
+        "Compuesto radiactivo procedente de minerales de uranio",
+        "Líquido potable que puede utilizarse para apagar incendios escolares"
+      ],
+      "correcta": 0,
+      "explicacion": "El símbolo de la llama identifica sustancias inflamables (gases, líquidos o sólidos) que pueden inflamarse fácilmente en presencia de fuentes de ignición (calor, chispas o llamas abiertas)."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué peligro advierte el pictograma que muestra una llama sobre un círculo cerrado (comburente)?",
+      "opciones": [
+        "Sustancia comburente: libera oxígeno y favorece o aviva la combustión de materiales inflamables",
+        "Material que apaga fuegos instantáneamente al entrar en contacto con el aire",
+        "Producto que solo puede quemarse dentro de círculos de metal especiales",
+        "Gas inerte no reactivo como el helio o el argón"
+      ],
+      "correcta": 0,
+      "explicacion": "Un comburente (como el oxígeno puro, peróxidos o nitratos) es una sustancia que aporta oxígeno o favorece enérgicamente la combustión de materias inflamables, agravando incendios."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué advierte el pictograma que muestra líquidos vertiéndose de dos tubos sobre una barra metálica y sobre una mano humana?",
+      "opciones": [
+        "Sustancia corrosiva: ataca y destruye metales y puede causar graves quemaduras químicas en la piel y tejidos vivos",
+        "Producto nutritivo rico en calcio para fortalecer los huesos de las manos",
+        "Líquido desinfectante recomendado para lavarse las manos sin necesidad de agua",
+        "Sustancia magnética que atrae metales y piel humana simultáneamente"
+      ],
+      "correcta": 0,
+      "explicacion": "El pictograma de corrosión indica que el producto químico (como ácidos o bases fuertes concentrados) destruye tejidos vivos en caso de contacto y corroe las superficies metálicas."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué significado tiene el pictograma con una calavera y dos tibias cruzadas?",
+      "opciones": [
+        "Toxicidad aguda grave: sustancia que puede provocar la muerte o efectos muy graves en pequeñas dosis por inhalación, ingestión o contacto",
+        "Material reservado exclusivamente para la celebración escolar de Halloween",
+        "Compuesto que fortalece los huesos del cráneo de quien lo manipula",
+        "Sustancia arqueológica encontrada en tumbas antiguas de piratas"
+      ],
+      "correcta": 0,
+      "explicacion": "La calavera y tibias cruzadas es el símbolo de toxicidad aguda severa o mortal. Incluso exposiciones muy breves o en cantidades ínfimas pueden ocasionar intoxicaciones mortales o daños irreversibles."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué peligro indica el pictograma con un signo de exclamación negro sobre fondo blanco con rombo rojo?",
+      "opciones": [
+        "Toxicidad aguda moderada, irritación cutánea u ocular o somnolencia/vértigo",
+        "Experimento extremadamente emocionante y divertido",
+        "Obligación de hablar en voz muy alta durante la práctica",
+        "Producto químico que emite música o señales de radiofrecuencia"
+      ],
+      "correcta": 0,
+      "explicacion": "El signo de exclamación advierte de peligros de menor gravedad pero significativos: irritación cutánea, ocular o respiratoria, toxicidad aguda categoría 4 o efectos narcóticos."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué significa el pictograma que muestra la silueta del torso de una persona con una estrella blanca de múltiples puntas en su interior?",
+      "opciones": [
+        "Peligro grave para la salud a largo plazo: puede provocar cáncer, mutaciones genéticas o daños en órganos vitales",
+        "Sustancia mágica que convierte a quien la respira en una estrella de cine",
+        "Compuesto que mejora la agudeza visual y la iluminación de los ojos en la oscuridad",
+        "Producto alimenticio enriquecido con vitaminas y minerales para deportistas"
+      ],
+      "correcta": 0,
+      "explicacion": "Este pictograma alerta de peligros para la salud graves y crónicos: carcinogenicidad (cáncer), mutagenicidad (alteraciones en el ADN), toxicidad para la reproducción o daño específico en órganos diana."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué indica el pictograma en el que se observa un árbol seco deshojado junto a un pez muerto sobre la orilla?",
+      "opciones": [
+        "Peligroso para el medio ambiente: presenta toxicidad aguda o crónica para los ecosistemas acuáticos y naturales",
+        "Abono ecológico recomendado para la cría intensiva de peces en estanques",
+        "Reactivo biodegradable que sirve para limpiar ríos y lagos contaminados",
+        "Sustancia que atrae peces de colores para facilitar la pesca deportiva"
+      ],
+      "correcta": 0,
+      "explicacion": "El símbolo del árbol y pez muerto identifica productos ecotóxicos peligrosos para el medio ambiente acuático. Nunca deben verterse por el fregadero, sino recogerse en bidones de residuos especiales para su tratamiento."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "¿Qué advertencia transmite el pictograma de una bomba estallando en mil pedazos?",
+      "opciones": [
+        "Sustancia explosiva: puede estallar violentamente por calor, chispas, rozamiento, impacto o reacción espontánea",
+        "Material con el que se fabrican balones de fútbol de alta resistencia",
+        "Compuesto efervescente inofensivo como una pastilla de vitamina C",
+        "Sustancia que absorbe el ruido del laboratorio creando silencio absoluto"
+      ],
+      "correcta": 0,
+      "explicacion": "Indica sustancias o mezclas explosivas, autorreactivas o peróxidos orgánicos con riesgo inminente de explosión por efecto térmico, mecánico (choque o fricción) o por confinamiento."
+    },
+    {
+      "tema": "Normas de Seguridad y Pictogramas",
+      "pregunta": "Al terminar la sesión práctica de laboratorio, ¿cuáles son los pasos correctos antes de abandonar la sala?",
+      "opciones": [
+        "Limpiar y ordenar los materiales de la mesa, desechar los residuos según las pautas del docente y lavarse las manos con agua y jabón",
+        "Dejar todos los mecheros encendidos y salir corriendo sin avisar a nadie",
+        "Verter todos los líquidos sobrantes mezclados en una misma botella y guardarla en la mochila",
+        "Tirar el vidrio roto a la papelera común de papel y salir sin lavarse las manos"
+      ],
+      "correcta": 0,
+      "explicacion": "El orden y la higiene final son normas básicas de seguridad en cualquier laboratorio: recoger, depositar residuos en sus contenedores específicos y lavarse las manos asegura que no queden restos nocivos en la piel."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Qué significa exactamente el acto de 'medir' una magnitud en física y química?",
+      "opciones": [
+        "Comparar una cantidad con una unidad patrón conocida para determinar cuántas veces está contenida la unidad en dicha cantidad",
+        "Adivinar a simple vista cuánto pesa un objeto sin utilizar ningún instrumento",
+        "Inventar una palabra nueva cada vez que queremos saber la longitud de una mesa",
+        "Multiplicar el número de letras del nombre de un objeto por la constante de la gravedad"
+      ],
+      "correcta": 0,
+      "explicacion": "Medir consiste en comparar una cantidad de una determinada magnitud con su respectiva unidad de medida tomada como referencia (patrón), averiguando cuántas veces se repite dicha unidad en la cantidad medida."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Por qué las unidades tradicionales antiguas (como el palmo, el pie, la fanega o la arroba) fueron sustituidas por el Sistema Internacional?",
+      "opciones": [
+        "Porque eran imperfectas y variables: dependían de la anatomía del individuo, del objeto o de la región, dificultando el comercio y la ciencia",
+        "Porque estaban escritas en latín y ningún rey medieval sabía pronunciarlas correctamente",
+        "Porque los científicos decidieron que solo debían existir números primos en las medidas",
+        "Porque la gravedad de la Tierra cambió en el siglo XVIII y las dejó obsoletas"
+      ],
+      "correcta": 0,
+      "explicacion": "Unidades como el pie o el palmo cambiaban de una persona a otra; la fanega o arroba variaba según la comarca. La ciencia y el comercio internacional exigían un sistema universal, invariable y reproducible."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cómo se definió originalmente el 'metro' tras las expediciones científicas de finales del siglo XVIII a lo largo del meridiano de París?",
+      "opciones": [
+        "Como la diezmillonésima (1/10.000.000) parte de la distancia del polo norte al ecuador (un cuadrante del meridiano terrestre)",
+        "Como la longitud del pie del rey Luis XVI calzado con botas de montar",
+        "Como la distancia que recorre un caballo al galope en un minuto exacto",
+        "Como la longitud de una varilla de madera encontrada en la tumba de Ramsés II"
+      ],
+      "correcta": 0,
+      "explicacion": "Para que no dependiera de ningún rey o nación, los científicos midieron el arco de meridiano terrestre entre Dunkerque y Barcelona y definieron el metro como la diezmillonésima parte de un cuadrante del meridiano terrestre."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cómo se definió originalmente el 'kilogramo' en el sistema métrico decimal?",
+      "opciones": [
+        "Como la masa contenida en un decímetro cúbico (1 dm³) de agua pura a la temperatura de su máxima densidad (4 ºC)",
+        "Como la masa de un millón de granos de arena recogidos en la playa de París",
+        "Como el peso de una barra de plomo de un metro de longitud expuesta al sol",
+        "Como la masa de un litro de aceite de oliva a temperatura ambiente"
+      ],
+      "correcta": 0,
+      "explicacion": "Se vinculó la masa al volumen del agua: se construyó un cubo de un decímetro de arista (1 dm³ = 1 litro) y se llenó de agua destilada a 4 ºC (máxima densidad del agua); a esa masa exacta se le denominó un kilogramo."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cuál es la unidad básica del Sistema Internacional para medir el TIEMPO?",
+      "opciones": [
+        "El segundo (s)",
+        "La hora (h)",
+        "El minuto (min)",
+        "El día solar medio (d)"
+      ],
+      "correcta": 0,
+      "explicacion": "Aunque en la vida cotidiana utilizamos horas y minutos, en el Sistema Internacional la unidad fundamental de tiempo es el segundo, cuyo símbolo oficial es 's' (en minúscula y sin punto)."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cuál es la unidad básica del Sistema Internacional para medir la TEMPERATURA?",
+      "opciones": [
+        "El kelvin (K)",
+        "El grado Celsius o centígrado (ºC)",
+        "El grado Fahrenheit (ºF)",
+        "La caloría térmica (cal)"
+      ],
+      "correcta": 0,
+      "explicacion": "En el Sistema Internacional la unidad fundamental de temperatura termodinámica es el kelvin (K), una escala absoluta donde el cero absoluto (0 K) corresponde a -273,15 ºC. El grado Celsius no es la unidad básica oficial del SI."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cuáles son las SIETE magnitudes fundamentales del Sistema Internacional con sus unidades correspondientes?",
+      "opciones": [
+        "Longitud (m), Masa (kg), Tiempo (s), Intensidad de corriente (A), Temperatura (K), Cantidad de sustancia (mol) e Intensidad luminosa (cd)",
+        "Longitud (cm), Peso (g), Tiempo (h), Voltaje (V), Calor (cal), Volumen (L) y Velocidad (m/s)",
+        "Distancia (km), Masa (t), Tiempo (s), Potencia (W), Presión (atm), Superficie (m²) y Luz (lux)",
+        "Altura (m), Fuerza (N), Energía (J), Trabajo (W), Densidad (g/mL), Carga (C) y Frecuencia (Hz)"
+      ],
+      "correcta": 0,
+      "explicacion": "El SI se fundamenta en exactamente 7 magnitudes elementales: longitud (metro, m), masa (kilogramo, kg), tiempo (segundo, s), intensidad de corriente eléctrica (amperio, A), temperatura (kelvin, K), cantidad de materia (mol, mol) e intensidad luminosa (candela, cd)."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Qué es una 'magnitud derivada' y qué ejemplo podemos encontrar en el libro?",
+      "opciones": [
+        "Una magnitud deducida combinando unidades básicas, como la velocidad, que se mide en metros por segundo (m/s)",
+        "Cualquier magnitud que solo se puede medir en países del hemisferio sur",
+        "Una magnitud inventada recientemente que no tiene relación con la física",
+        "Un número que no necesita llevar ninguna unidad detrás"
+      ],
+      "correcta": 0,
+      "explicacion": "Las magnitudes derivadas se obtienen a partir de operaciones matemáticas entre las magnitudes básicas. Por ejemplo, la velocidad = longitud / tiempo, midiéndose en m/s en el SI; o la densidad = masa / volumen (kg/m³)."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Qué es el 'volumen' y cuál es su unidad oficial en el Sistema Internacional?",
+      "opciones": [
+        "El espacio tridimensional que ocupa un cuerpo, y su unidad en el SI es el metro cúbico (m³)",
+        "El peso que ejerce un objeto sobre el suelo, y se mide en litros (L)",
+        "La cantidad de ruido que emite un experimento, y se mide en decibelios (dB)",
+        "La velocidad a la que fluye un líquido, y se mide en kilómetros por hora (km/h)"
+      ],
+      "correcta": 0,
+      "explicacion": "El volumen es el espacio ocupado por un cuerpo. En el Sistema Internacional se mide en metros cúbicos (m³), que corresponde al espacio de un cubo que tiene un metro de lado o arista."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cuál es la relación de equivalencia exacta entre el litro (L) y las unidades de volumen del Sistema Internacional?",
+      "opciones": [
+        "1 litro = 1 decímetro cúbico (1 dm³), y 1 metro cúbico (1 m³) contiene exactamente 1000 litros",
+        "1 litro = 1 metro cúbico (1 m³), y 1 decímetro cúbico contiene 1000 litros",
+        "1 litro = 1 centímetro cúbico (1 cm³), y 1 metro cúbico contiene 10 litros",
+        "1 litro = 10 decímetros cúbicos (10 dm³), y 1 metro cúbico contiene 100 litros"
+      ],
+      "correcta": 0,
+      "explicacion": "Un litro es el volumen de un cubo de 1 dm (10 cm) de arista: 1 L = 1 dm³. Como un cubo de 1 m de arista tiene 10 dm por cada lado, su volumen es 10 × 10 × 10 = 1000 dm³, por lo que 1 m³ = 1000 litros (y 1 mL = 1 cm³)."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Qué particularidad única presenta el 'kilogramo' frente a las demás seis unidades básicas del Sistema Internacional?",
+      "opciones": [
+        "Es la única unidad fundamental del SI que ya contiene un prefijo ('kilo-') en su propio nombre",
+        "Es la única unidad que no se puede pesar con una balanza digital moderna",
+        "Es la única magnitud que solo existe en el planeta Tierra y no en el espacio",
+        "Es la única unidad básica que se mide en grados en lugar de letras"
+      ],
+      "correcta": 0,
+      "explicacion": "El kilogramo (kg) es la única de las siete unidades elementales del SI cuyo patrón y nombre base incluye un prefijo multiplicador ('kilo-', que equivale a 1000 gramos)."
+    },
+    {
+      "tema": "El Sistema Internacional (SI)",
+      "pregunta": "¿Cuál es la unidad básica del SI para medir la INTENSIDAD DE CORRIENTE eléctrica?",
+      "opciones": [
+        "El amperio (A)",
+        "El voltio (V)",
+        "El vatio (W)",
+        "El ohmio (Ω)"
+      ],
+      "correcta": 0,
+      "explicacion": "La magnitud fundamental del SI para la electricidad es la intensidad de corriente eléctrica, cuya unidad básica es el amperio (A), en honor al físico André-Marie Ampère."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿Por qué en las noticias científicas se dice que 'la distancia a Júpiter es de 590 millones de kilómetros' en lugar de usar metros, o que 'una plaga de moscas mide 5 mm'?",
+      "opciones": [
+        "Para evitar escribir números con una cantidad incómoda de ceros, facilitando la comprensión y el manejo de datos",
+        "Porque está terminantemente prohibido utilizar el metro fuera de las ferreterías",
+        "Porque los periodistas no conocen la equivalencia entre el metro y el kilómetro",
+        "Porque los planetas se miden en kilómetros y los insectos obligatoriamente en pulgadas"
+      ],
+      "correcta": 0,
+      "explicacion": "Los prefijos, múltiplos y submúltiplos permiten adaptar la escala de la unidad al tamaño del objeto medido, evitando trabajar con números astronómicamente grandes (590.000.000.000 m) o microscópicamente diminutos (0,005 m)."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿Cuál es la escala ordenada de los prefijos decimales del Sistema Internacional desde el más grande al más pequeño de los habituales en el tema?",
+      "opciones": [
+        "kilo (k) → hecto (h) → deca (da) → [unidad básica] → deci (d) → centi (c) → mili (m)",
+        "mili (m) → centi (c) → deci (d) → [unidad básica] → kilo (k) → hecto (h) → deca (da)",
+        "hecto (h) → kilo (k) → deci (d) → [unidad básica] → deca (da) → mili (m) → centi (c)",
+        "deca (da) → deci (d) → centi (c) → [unidad básica] → kilo (k) → hecto (h) → mili (m)"
+      ],
+      "correcta": 0,
+      "explicacion": "La escala decimal varía de 10 en 10: kilo (×1000), hecto (×100), deca (×10), unidad básica (1), deci (:10 o ×0,1), centi (:100 o ×0,01) y mili (:1000 o ×0,001)."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "En la actividad resuelta del Concurso de Tartas de Queso Manchego de Cuenca del libro, ¿cuál de los tres cocineros usó mayor masa de queso para su tarta?\n• Emma Yonesa: 48 dag\n• Josele Vadura: 5 hg\n• Margarita Cojamón: 4750 dg",
+      "opciones": [
+        "Josele Vadura (5 hg = 500 g)",
+        "Emma Yonesa (48 dag = 480 g)",
+        "Margarita Cojamón (4750 dg = 475 g)",
+        "Los tres utilizaron exactamente la misma cantidad de queso"
+      ],
+      "correcta": 0,
+      "explicacion": "Pasando todas las cantidades a la misma unidad (gramos): Emma usó 48 dag × 10 = 480 g; Josele usó 5 hg × 100 = 500 g; Margarita usó 4750 dg / 10 = 475 g. Por tanto, Josele Vadura usó la mayor masa de queso con 500 gramos."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿Cuál es el símbolo oficial del prefijo 'deca' (que multiplica por diez) y por qué no es simplemente la letra 'd'?",
+      "opciones": [
+        "Es 'da', para no confundirlo con el prefijo 'deci' cuyo símbolo oficial es 'd'",
+        "Es 'dc', para indicar que tiene dos letras como la palabra diez",
+        "Es 'D' mayúscula, porque todos los múltiplos se escriben siempre en mayúscula",
+        "Es 'dk', en homenaje al descubridor del sistema métrico"
+      ],
+      "correcta": 0,
+      "explicacion": "El símbolo de deca es 'da' (por ejemplo, dam = decámetro, dag = decagramo), mientras que el submúltiplo deci es 'd' (dm = decímetro, dg = decigramo)."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "Si un guepardo recorre una distancia de 2,5 kilómetros (km), ¿a cuántos metros (m) equivale esta longitud?",
+      "opciones": [
+        "2500 m",
+        "250 m",
+        "25.000 m",
+        "0,0025 m"
+      ],
+      "correcta": 0,
+      "explicacion": "Como 1 km = 1000 m, multiplicamos: 2,5 km × 1000 = 2500 metros."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "Un medicamento contiene 350 miligramos (mg) de principio activo. ¿Cuántos gramos (g) contiene?",
+      "opciones": [
+        "0,350 g (o 0,35 g)",
+        "3,5 g",
+        "35 g",
+        "350.000 g"
+      ],
+      "correcta": 0,
+      "explicacion": "Como el prefijo mili indica la milésima parte (:1000), dividimos entre 1000: 350 mg / 1000 = 0,350 gramos."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "Si disponemos de 4,2 hectolitros (hL) de agua en un depósito, ¿cuántos litros (L) tenemos en total?",
+      "opciones": [
+        "420 L",
+        "42 L",
+        "4200 L",
+        "0,042 L"
+      ],
+      "correcta": 0,
+      "explicacion": "El prefijo hecto (h) significa multiplicar por 100. Por tanto: 4,2 hL × 100 = 420 litros."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿A cuántos centímetros (cm) equivalen 0,75 metros (m)?",
+      "opciones": [
+        "75 cm",
+        "7,5 cm",
+        "750 cm",
+        "0,0075 cm"
+      ],
+      "correcta": 0,
+      "explicacion": "Como 1 metro contiene 100 centímetros, multiplicamos por 100: 0,75 m × 100 = 75 cm."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "Una probeta contiene 250 mililitros (mL) de una disolución salina. ¿A cuántos decímetros cúbicos (dm³) o litros equivale?",
+      "opciones": [
+        "0,250 dm³ (o 0,25 L)",
+        "2,5 dm³",
+        "25 dm³",
+        "250.000 dm³"
+      ],
+      "correcta": 0,
+      "explicacion": "1 litro = 1000 mL = 1 dm³. Por tanto, 250 mL / 1000 = 0,25 L = 0,25 dm³."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿Qué operación matemática debemos realizar para pasar una medida expresada en centigramos (cg) a gramos (g)?",
+      "opciones": [
+        "Dividir entre 100 (subir dos escalones en la escala métrica)",
+        "Multiplicar por 100 (bajar dos escalones en la escala métrica)",
+        "Multiplicar por 1000 (subir tres escalones en la escala métrica)",
+        "Restar 10 a la cantidad inicial"
+      ],
+      "correcta": 0,
+      "explicacion": "El centigramo es la centésima parte del gramo (1 g = 100 cg). Para pasar de una unidad menor a la unidad mayor básica se divide entre 100."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿A cuántos segundos (s) equivale un intervalo de tiempo de 2 horas y media (2,5 h)?",
+      "opciones": [
+        "9000 s",
+        "2500 s",
+        "150 s",
+        "3600 s"
+      ],
+      "correcta": 0,
+      "explicacion": "Una hora contiene 60 minutos, y cada minuto tiene 60 segundos (1 h = 3600 s). Por tanto: 2,5 h × 3600 s/h = 9000 segundos."
+    },
+    {
+      "tema": "Múltiplos y Submúltiplos",
+      "pregunta": "¿Cuántos kilogramos son 15.000 decigramos (dg)?",
+      "opciones": [
+        "1,5 kg",
+        "15 kg",
+        "150 kg",
+        "0,15 kg"
+      ],
+      "correcta": 0,
+      "explicacion": "1 kg tiene 10 hg, 100 dag, 1.000 g y 10.000 dg. Dividiendo: 15.000 dg / 10.000 = 1,5 kg."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "¿Qué es una 'medida directa' en ciencias experimentales?",
+      "opciones": [
+        "Aquella en la que se utiliza un instrumento para conocer directamente el valor de una magnitud",
+        "Aquella que se deduce únicamente realizando complicadas fórmulas matemáticas",
+        "Cualquier número que se adivina mirando el objeto durante cinco segundos",
+        "La distancia medida con los ojos cerrados para no sesgar el resultado"
+      ],
+      "correcta": 0,
+      "explicacion": "Una medida es directa cuando se obtiene inmediatamente aplicando un instrumento de medición graduado (por ejemplo, medir una longitud con una regla, la temperatura con un termómetro o la masa con una balanza)."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "¿Qué es una 'medida indirecta' según el libro de texto?",
+      "opciones": [
+        "Aquella que se obtiene a partir de alguna operación matemática que combina valores medidos previamente",
+        "Aquella que mide el profesor mientras los alumnos están de espaldas",
+        "Una medida que siempre tiene un error del cien por cien",
+        "El resultado de medir un objeto en una habitación a oscuras"
+      ],
+      "correcta": 0,
+      "explicacion": "Una medida indirecta no se puede leer directamente en un único aparato: se calcula aplicando una fórmula matemática a partir de medidas directas previas (por ejemplo: Área = lado × lado, Densidad = masa / volumen, Velocidad = distancia / tiempo)."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "¿Por qué el cálculo del área de un folio azul (Área = lado × lado) o la densidad de una roca son medidas indirectas?",
+      "opciones": [
+        "Porque medimos directamente las dimensiones o la masa y el volumen con instrumentos, y luego calculamos el área o la densidad mediante una fórmula",
+        "Porque los folios y las rocas no se pueden tocar con las manos",
+        "Porque las reglas milimetradas solo proporcionan datos indirectos",
+        "Porque el área de un folio cambia si se mira de perfil"
+      ],
+      "correcta": 0,
+      "explicacion": "Medimos directamente la longitud de los lados con una regla o probeta y balanza, pero el área o la densidad son el resultado de una operación matemática (producto o cociente)."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "La temperatura en la superficie del Sol se estima en 5500 ºC. ¿Es una medida directa o indirecta, y por qué?",
+      "opciones": [
+        "Indirecta, porque es imposible colocar un termómetro en el Sol; se deduce analizando la radiación electromagnética de su luz",
+        "Directa, porque los astronautas de la NASA clavaron una sonda térmica en el polo norte solar",
+        "Directa, porque se mide mirando al Sol con una lupa desde la Tierra",
+        "No es ninguna medida, es un valor inventado por los astrónomos al azar"
+      ],
+      "correcta": 0,
+      "explicacion": "Las condiciones extremas del Sol impiden el contacto físico instrumental directo. La temperatura superficial se obtiene indirectamente estudiando el espectro de emisión y las leyes físicas de la radiación de cuerpo negro."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "En el taller de las monedas y el barquito de aluminio, para saber la masa total de 50 monedas iguales, ¿es necesario pesarlas todas una a una?",
+      "opciones": [
+        "No, podemos medir la masa de una moneda en la balanza y multiplicar ese valor por 50 (cálculo indirecto)",
+        "Sí, obligatoriamente, porque en física está prohibido utilizar la multiplicación",
+        "No, porque las monedas no tienen masa cuando están fuera del monedero",
+        "Sí, y además hay que fundir el metal para comprobar su densidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Si tenemos un conjunto de objetos idénticos, basta con medir con precisión la masa de uno de ellos (medida directa) y multiplicar por el número total de unidades, obteniendo la masa del conjunto de forma indirecta y rápida."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "¿Qué significa 'estimar' una cantidad según el libro de ciencias?",
+      "opciones": [
+        "No es adivinar al azar, sino hacer una predicción aproximada razonada para intentar determinar el valor de algo",
+        "Inventar una cifra exagerada para sorprender a los compañeros",
+        "Medir con un microscopio atómico de máxima precisión",
+        "Copiar el valor que aparece en la primera página de un libro cualquiera"
+      ],
+      "correcta": 0,
+      "explicacion": "Estimar no es jugar a la lotería ni adivinar a ciegas. Implica utilizar conocimientos previos, sentido común y referencias conocidas para aproximar un valor numérico razonable."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "¿Cuándo se dice que una aproximación es 'por exceso' y cuándo 'por defecto'?",
+      "opciones": [
+        "Es por exceso cuando la estimación supera al valor real, y por defecto cuando queda por debajo del valor real",
+        "Es por exceso cuando el número tiene decimales, y por defecto cuando es un número entero",
+        "Es por exceso cuando medimos con regla, y por defecto cuando medimos con probeta",
+        "Es por exceso cuando hace calor en el laboratorio, y por defecto en invierno"
+      ],
+      "correcta": 0,
+      "explicacion": "Si el valor estimado es mayor que el valor auténtico, nos hemos pasado (aproximación por exceso); si el valor estimado es menor que el valor real, nos hemos quedado cortos (aproximación por defecto)."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "La distancia real en línea recta entre Gijón y Jaén es de 659 km. Diana estimó 700 km e Inma estimó 635 km. ¿Quién hizo una mejor aproximación y por qué tipo fue cada una?",
+      "opciones": [
+        "Inma hizo mejor estimación (error de 24 km por defecto), mientras que Diana cometió un error de 41 km por exceso",
+        "Diana hizo mejor estimación (error de 24 km por exceso) e Inma cometió un error de 100 km por defecto",
+        "Ambas hicieron exactamente la misma estimación porque 700 y 635 son números redondos",
+        "Ninguna es válida porque entre dos ciudades no se pueden medir distancias en kilómetros"
+      ],
+      "correcta": 0,
+      "explicacion": "El error de Diana es |659 - 700| = 41 km (por exceso, ya que 700 > 659). El error de Inma es |659 - 635| = 24 km (por defecto, ya que 635 < 659). Como 24 km < 41 km, la estimación de Inma estuvo más cerca del valor auténtico."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "En la actividad 33 del libro, estimamos que en una hucha habrá 65 euros, pero al romperla contamos exactamente 78 euros. ¿Cuál ha sido el error y de qué tipo?",
+      "opciones": [
+        "El error ha sido de 13 euros, y ha sido una aproximación por defecto",
+        "El error ha sido de 13 euros, y ha sido una aproximación por exceso",
+        "El error ha sido de 78 euros, y ha sido una aproximación perfecta",
+        "El error ha sido de 0 euros porque el dinero no se puede equivocar"
+      ],
+      "correcta": 0,
+      "explicacion": "El error es la diferencia entre el valor real y el aproximado: 78 € - 65 € = 13 €. Como la estimación (65 €) fue menor que el valor real (78 €), se trata de una aproximación por defecto."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "Siguiendo el mismo caso de la hucha de 78 euros, ¿qué error cometeríamos si hubiésemos estimado que había 95 euros en su interior?",
+      "opciones": [
+        "Un error de 17 euros por exceso",
+        "Un error de 17 euros por defecto",
+        "Un error de 95 euros por exceso",
+        "Un error de 8 euros por defecto"
+      ],
+      "correcta": 0,
+      "explicacion": "Diferencia: 95 € - 78 € = 17 €. Como la cifra estimada (95 €) es superior al valor auténtico que había dentro de la hucha (78 €), la aproximación es por exceso."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "Mónica invita a 8 amigos a comer paella a su casa (9 personas en total). Si sabe que la ración normal de arroz es de unos 80-100 g por persona, ¿qué estimación de compra es la más razonable?",
+      "opciones": [
+        "Comprar un paquete de 1 kg de arroz (unos 900 g necesarios)",
+        "Comprar un saco de 10 kg de arroz por si acaso tienen mucha hambre",
+        "Comprar 10 gramos de arroz repartidos con pinzas de laboratorio",
+        "Comprar exactamente 100 kg de arroz para alimentar a todo el vecindario"
+      ],
+      "correcta": 0,
+      "explicacion": "Estimar con rigor requiere hacer cálculos rápidos: 9 comensales × 100 g = 900 g. Comprar 1 kg (1000 g) es una estimación lógica y prudente. Comprar 10 kg sería un error garrafal por exceso."
+    },
+    {
+      "tema": "Medidas Directas, Estimación y Error",
+      "pregunta": "¿Cómo se define formalmente el 'error' de una aproximación en una medida experimental?",
+      "opciones": [
+        "La diferencia numérica entre el valor real y el valor aproximado",
+        "La suma de todos los números que aparecen en la calculadora",
+        "El peso del instrumento de medida dividido entre su volumen",
+        "El tiempo que tarda el científico en pedir disculpas por equivocarse"
+      ],
+      "correcta": 0,
+      "explicacion": "El error absoluto es la diferencia entre el valor real y el valor aproximado o medido: Error = |Valor real - Valor aproximado|. Cuanto menor es esta diferencia, mayor es la exactitud de la medida."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Cuáles son las tres herramientas principales que utilizan los científicos para mostrar cuantitativamente los resultados de un experimento?",
+      "opciones": [
+        "Tablas, gráficas y fórmulas",
+        "Carteles publicitarios, folletos turísticos y canciones",
+        "Cuentos infantiles, cómics de ficción y vídeos de humor",
+        "Opiniones en redes sociales, cartas astrales y refranes"
+      ],
+      "correcta": 0,
+      "explicacion": "Los resultados experimentales se recopilan en tablas de datos ordenadas, se representan visualmente en gráficas de coordenadas para observar tendencias y se resumen matemáticamente en fórmulas que expresan leyes."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Qué es una 'tabla de datos' en una investigación científica?",
+      "opciones": [
+        "Un cuadro ordenado en filas y columnas donde figuran los valores numéricos de las variables estudiadas relacionados entre sí",
+        "Un tablero de madera barnizada sobre el que se colocan los mecheros encendidos",
+        "Una lista desordenada de nombres de científicos famosos",
+        "Un dibujo artístico con colores variados para decorar el laboratorio"
+      ],
+      "correcta": 0,
+      "explicacion": "Una tabla es una matriz organizada de datos que permite registrar y comparar de manera sistemática los valores de la variable independiente y dependiente observados durante los ensayos."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Qué es una 'gráfica' y qué ventaja ofrece sobre una simple tabla de números?",
+      "opciones": [
+        "Es un conjunto de puntos en ejes cartesianos que muestra visualmente y de forma intuitiva la relación entre las magnitudes",
+        "Es un texto largo escrito a mano que describe las emociones del investigador",
+        "Es un dibujo que sustituye a las matemáticas para que no haga falta calcular nada",
+        "No ofrece ninguna ventaja, es un adorno innecesario en los artículos científicos"
+      ],
+      "correcta": 0,
+      "explicacion": "Una gráfica cartesiana (ejes X e Y) permite ver al instante tendencias, comportamientos de proporcionalidad directa o inversa, máximos, mínimos y predecir valores intermedios (interpolación)."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "En el experimento de la jeringuilla con aire tapada en su punta, al empujar el émbolo disminuye el volumen a la mitad y se observa que la presión se duplica. ¿Qué fórmula resume este comportamiento?",
+      "opciones": [
+        "p · V = constante (Ley de Boyle-Mariotte)",
+        "p + V = 0",
+        "p / V = constante",
+        "p · V² = 1000"
+      ],
+      "correcta": 0,
+      "explicacion": "En la tabla del libro se comprueba que al multiplicar cada valor de presión por su volumen: 1 atm × 12 mL = 12; 2 atm × 6 mL = 12; 4 atm × 3 mL = 12; 6 atm × 2 mL = 12. La relación es p · V = constante (magnitudes inversamente proporcionales)."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "En el experimento anterior de presión y volumen, ¿qué tipo de relación guardan la presión y el volumen de un gas a temperatura constante?",
+      "opciones": [
+        "Inversamente proporcional: al aumentar la presión disminuye el volumen, formándose una curva hiperbólica descendente",
+        "Directamente proporcional: al aumentar la presión el volumen se hace infinito en línea recta",
+        "No guardan ninguna relación, el gas desaparece mágicamente al apretar el émbolo",
+        "Constante fija: el volumen no puede cambiar bajo ningún concepto físico"
+      ],
+      "correcta": 0,
+      "explicacion": "Son magnitudes inversamente proporcionales: al aumentar la fuerza/presión sobre el émbolo, las partículas de gas se comprimen ocupando menos espacio (la mitad de volumen si se duplica la presión)."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "En el ejercicio 34 del libro, Jacques Charles observó la relación entre temperatura (T en K) y volumen (V en L) de un gas a presión constante:\n• 100 K → 2 L\n• 150 K → 3 L\n• 200 K → 4 L\n• 250 K → 5 L\n• 300 K → 6 L\n¿Qué relación matemática y gráfica guardan?",
+      "opciones": [
+        "Son directamente proporcionales (V / T = cte) y su representación gráfica es una línea recta ascendente",
+        "Son inversamente proporcionales y su gráfica es un círculo cerrado",
+        "El volumen disminuye al aumentar la temperatura",
+        "La temperatura no tiene ningún efecto sobre el volumen de los gases"
+      ],
+      "correcta": 0,
+      "explicacion": "Dividiendo el volumen entre la temperatura: 2/100 = 3/150 = 4/200 = 0,02 L/K (constante). Al duplicar la temperatura absoluta se duplica el volumen: es una relación lineal directamente proporcional (Ley de Charles)."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Qué es una 'fórmula' en el lenguaje de la ciencia?",
+      "opciones": [
+        "Una relación matemática cuantitativa que permite enunciar leyes que explican y predicen situaciones similares",
+        "Una receta mágica secreta que solo puede leerse con gafas especiales",
+        "Un conjunto de palabras sin significado numérico",
+        "Una lista de ingredientes para cocinar en el laboratorio"
+      ],
+      "correcta": 0,
+      "explicacion": "Una fórmula es la expresión simbólica y matemática de una ley natural. Permite condensar en una ecuación cómo interactúan las magnitudes y predecir numéricamente qué ocurrirá en nuevos casos."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Cuáles son las cuatro secciones fundamentales que componen la redacción de un informe de investigación científica?",
+      "opciones": [
+        "Introducción, Método, Resultados y Conclusión",
+        "Portada, Agradecimientos a famosos, Opiniones políticas y Precio de venta",
+        "Resumen cómico, Dibujos animados, Quejas personales y Despedida",
+        "Horóscopo del mes, Preguntas de examen, Fotos de vacaciones y Bibliografía escolar"
+      ],
+      "correcta": 0,
+      "explicacion": "La estructura canónica de una comunicación científica incluye: Introducción (contexto e hipótesis), Método (materiales y procedimiento reproducible), Resultados (tablas, gráficas y relaciones) y Conclusión (análisis e interpretación final)."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Qué contenido debe figurar obligatoriamente en la sección de 'Método' de un informe científico?",
+      "opciones": [
+        "La descripción detallada del experimento, las condiciones de medición, el material empleado y cómo se manipularon las variables",
+        "El coste económico de la cena del equipo de investigación",
+        "Las anécdotas divertidas ocurridas durante el recreo",
+        "Una justificación de por qué no se hicieron experimentos con fuego"
+      ],
+      "correcta": 0,
+      "explicacion": "En la sección de Método (o Materiales y Métodos) se describen con exactitud todos los pasos, reactivos e instrumentos utilizados para que cualquier otro investigador pueda replicar el ensayo con total fiabilidad."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Qué se expone en la sección de 'Resultados' de un informe científico?",
+      "opciones": [
+        "Los datos más significativos obtenidos presentados en tablas, gráficas y fórmulas matemáticas",
+        "Las opiniones personales sobre la simpatía de los compañeros de laboratorio",
+        "Una lista de los libros que el científico leyó durante su infancia",
+        "Los errores ortográficos detectados en el examen"
+      ],
+      "correcta": 0,
+      "explicacion": "La sección de Resultados muestra objetivamente los hechos empíricos descubiertos a través de medidas cuantitativas, tablas resumen, gráficas de dispersión y relaciones funcionales deducidas."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿Por qué la redacción de un informe científico debe ser lo suficientemente detallada y rigurosa?",
+      "opciones": [
+        "Para que cualquier persona ajena al experimento pueda reproducirlo exactamente y llegar a las mismas conclusiones",
+        "Para que el texto resulte incomprensible y parezca más importante",
+        "Para gastar más papel y justificar el tamaño de la biblioteca",
+        "Para evitar que otros laboratorios puedan fabricar los mismos productos"
+      ],
+      "correcta": 0,
+      "explicacion": "La ciencia es pública y colaborativa. El detalle técnico permite a la comunidad científica internacional contrastar los hallazgos, verificar que no hay sesgos ni errores metodológicos y construir nuevos descubrimientos sobre esa base."
+    },
+    {
+      "tema": "Tablas, Gráficas y Comunicación",
+      "pregunta": "¿En qué lugares comunican habitualmente los científicos los descubrimientos de sus investigaciones?",
+      "opciones": [
+        "En congresos, conferencias científicas y artículos en revistas especializadas revisadas por pares",
+        "En carteles pegados en farolas y buzones de correo vecinales",
+        "Únicamente en charlas informales en la cafetería del barrio",
+        "En anuncios publicitarios de teletienda en horario de madrugada"
+      ],
+      "correcta": 0,
+      "explicacion": "Los canales de comunicación científica oficiales son los congresos científicos nacionales e internacionales, simposios y, sobre todo, las revistas de investigación (journals) donde los artículos pasan rigurosos procesos de arbitraje por pares."
+    }
+  ]
+}
